@@ -42,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/benjaminavanzi
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ProfAvanzi
