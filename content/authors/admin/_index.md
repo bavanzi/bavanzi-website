@@ -48,15 +48,34 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ch/citations?user=X4Ur7VQAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Benjamin_Avanzi 
+- icon: researchid
+  icon_pack: ai
+  link: https://publons.com/researcher/C-3888-2008/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5424-4292
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1339617/benjamin-avanzi/
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/avanzi_b_1.html
 - icon: github
   icon_pack: fab
   link: https://github.com/agi-lab
-# Link to a PDF of your resume/CV from the About widget.
+- icon: youtube
+  icon_pack: fab
+  link: http://www.youtube.com/c/BenjaminAvanzi
+
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/bavanziCV.pdf
-
+  link: files/bavanziCV.pdf # Link to a PDF of your resume/CV from the About widget.
+  
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "bigben@benjaminavanzi.com"
 
