@@ -32,4 +32,15 @@ subtitle = ""
   name = "2017 Hachemeister Prize"
   description = "Casualty Actuarial Society (CAS)"
 
+[[feature]]
+  icon = "award"
+  icon_pack = "fas"
+  name = "2015 School of Risk and Actuarial Studies Teaching Innovation Award"
+  description = "UNSW School of Risk and Actuarial Studies"
+  
+  [[feature]]
+  icon = "award"
+  icon_pack = "fas"
+  name = "2011 Australian School of Business Teaching Excellence Award, for “Outstanding Technology-Enabled Teaching Innovation”"
+  description = "UNSW Business School"
 +++
