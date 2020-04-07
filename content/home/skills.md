@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "award"
+  icon_pack = "fas"
+  name = "2018 Taylor Fry General Insurance Seminar Silver Prize"
+  description = "Australian Actuarial Institute"
   
 [[feature]]
   icon = "award"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "2018 Dean’s Distinguished Leadership Award"
+  description = "UNSW Business School"  
   
 [[feature]]
   icon = "award"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "2017 Hachemeister Prize"
+  description = "Casualty Actuarial Society (CAS)"
 
 +++
