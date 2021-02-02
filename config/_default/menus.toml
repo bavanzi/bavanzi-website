@@ -30,6 +30,12 @@
 #  weight = 40
 
 [[main]]
+  name = "Communicate data with R"
+  url = "https://communicate-data-with-r.netlify.app/"
+  weight = 75
+
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 80
