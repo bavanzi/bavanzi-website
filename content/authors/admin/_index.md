@@ -89,6 +89,6 @@ user_groups:
 - Visitors
 ---
 
-Benjamin Avanzi PhD MAICD is Professor of Actuarial Studies At the University of Melbourne. . He worked as an actuarial consultant in Switzerland and Canada, was Executive Chairman of the Board of a Swiss pension fund from 2006 to 2008, and held full-time academic positions in Australia and Canada since 2008.
+Benjamin Avanzi PhD MAICD is Professor of Actuarial Studies At the University of Melbourne. He worked as an actuarial consultant in Switzerland and Canada, was Executive Chairman of the Board of a Swiss pension fund from 2006 to 2008, and held full-time academic positions in Australia and Canada since 2008.
 
 Benjamin is a member of the Swiss Association of Actuaries, an Affiliate member of the Australian Actuaries Institute, an Academic member of the Casualty Actuarial Society, as well as a member of ARIA and the ASTIN section of the IAA. He has ongoing collaboration with major Australian non-life insurers, including Allianz, Insurance Australia Group, and Suncorp. Benjamin has published in top actuarial and operations management journals, and he was awarded (along with co-authors) the Hachemeister Prize by the Casualty Actuarial Society in 2017, and the Taylor Fry General Insurance Seminar Silver Prize in 2018. He is an Editor of the ASTIN Bulletin, an Associate Editor of Insurance: Mathematics and Economics, as well as a member of the Editorial Board of the open access journal Risks.
