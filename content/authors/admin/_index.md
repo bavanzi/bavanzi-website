@@ -21,9 +21,9 @@ organizations:
 bio: Benjamin Avanzi PhD MAICD is Professor of Actuarial Studies At the University of Melbourne. He worked as an actuarial consultant in Switzerland and Canada, was Executive Chairman of the Board of a Swiss pension fund from 2006 to 2008, and held full-time academic positions in Australia and Canada since 2008.
 
 interests:
-- Actuarial Studies
-- General Insurance
-- Capital
+- Actuarial studies
+- Risk management
+- Insurance capital
 
 education:
   courses:
