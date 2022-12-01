@@ -93,11 +93,11 @@ address = {street = "111 Barry Street", city = "Carlton", region = "VIC", postco
 coordinates = {latitude = "-37.801376", longitude = "144.959516"}
 
 # Directions for visitors to locate you.
-directions = "Go to level 4 and then turn left to Office 412"
+directions = "Go to level 3 and then turn left to Office 323 (in the North East corner of the building)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Mondays 13:30 to 15:00"]
+office_hours = ["Refer to your Subject Guide, or by appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -105,7 +105,8 @@ office_hours = ["Mondays 13:30 to 15:00"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ProfAvanzi"},
+  {icon = "linkedin", icon_pack = "fab", name = "DM Me", link = "http://www.linkedin.com/in/benjaminavanzi"},
+#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ProfAvanzi"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:benjaminavanzi?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
