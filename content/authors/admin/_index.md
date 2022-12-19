@@ -30,7 +30,7 @@ education:
   - course: Actuary SAA
     institution: Swiss Assocation of Actuaries
   - course: GAICD
-    institution: Australain Institute of Company Directors (AICD)
+    institution: Australian Institute of Company Directors (AICD)
   - course: PhD in Actuarial Science
     institution: University of Lausanne
     year: 2008
