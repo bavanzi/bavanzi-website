@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Actuarial Studies
+role: Professor of Actuarial Studies Non-Executive Director
 
 # Organizations/Affiliations
 organizations:
@@ -93,8 +93,8 @@ user_groups:
 - Visitors
 ---
 
-Benjamin Avanzi PhD Actuary SAA GAICD is Professor of Actuarial Studies at the University of Melbourne. He worked as an actuarial consultant in Switzerland and Canada, was Executive Chairman of the Board of a Swiss pension fund from 2006 to 2008, and held full-time academic positions in Australia and Canada since 2008. 
+Benjamin Avanzi PhD Actuary SAA GAICD is Professor of Actuarial Studies at the University of Melbourne.  He is also currently on the Management Board of the Theatre Royal (Hobart, Tasmania). He worked as an actuarial consultant in Switzerland and Canada, was Executive Chairman of the Board of a Swiss pension fund from 2006 to 2008, and held full-time academic positions in Australia and Canada since 2008.
 
-Benjamin is an "Actuary SAA" with the Swiss Association of Actuaries (fully qualified actuary, equivalent to Fellow in Switzerland), an Affiliate member of the Australian Actuaries Institute, an Academic member of the Casualty Actuarial Society, as well as a member of the ASTIN section of the IAA. He has ongoing collaboration with major Australian non-life insurers, including Allianz, Insurance Australia Group, and Suncorp.
-
-Benjamin has published in top actuarial and operations management journals, and he was awarded (along with co-authors) the Hachemeister Prize by the Casualty Actuarial Society in 2017, and the Taylor Fry General Insurance Seminar Silver Prize in 2018. He is an Editor of the ASTIN Bulletin, an Associate Editor of Insurance: Mathematics and Economics, as well as a member of the Editorial Board of the open access journal Risks.
+Benjamin is an "Actuary SAA" with the Swiss Association of Actuaries (fully qualified actuary, equivalent to Fellow in Switzerland), an Affiliate member of the Australian Actuaries Institute, an Academic member of the Casualty Actuarial Society, as well as a member of the ASTIN section of the IAA. He is also a Graduate member of the Australian Institute of Company Directors.
+ 
+Benjamin has published numerous papers in top actuarial and operations management journals. He was awarded (along with co-authors) the Hachemeister Prize twice by the Casualty Actuarial Society in 2017 and 2023, the Taylor Fry General Insurance Seminar Silver Prize in 2018, and a Highly Commended Paper Prize by the Institute and Faculty of Actuaries in 2022. He is an Editor of the ASTIN Bulletin, an Associate Editor of Insurance: Mathematics and Economics, as well as a member of the Editorial Board of the open access journal Risks.
