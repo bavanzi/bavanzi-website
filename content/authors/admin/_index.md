@@ -18,7 +18,8 @@ organizations:
   url: "https://findanexpert.unimelb.edu.au/profile/795204-benjamin-avanzi"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Benjamin Avanzi PhD Actuary SAA GAICD CERA is Professor of Actuarial Studies At the University of Melbourne. He worked as an actuarial consultant in Switzerland and Canada, was Executive Chairman of the Board of a Swiss pension fund from 2006 to 2008, and held full-time academic positions in Australia and Canada since 2008.
+bio: Benjamin Avanzi, PhD, Actuary SAA, GAICD, CERA, FIAA, serves as Professor of Actuarial Studies at the University of Melbourne. He has worked as an actuarial consultant in Switzerland and Canada, served as the Executive Chairman of the Board for a Swiss pension fund from 2006 to 2008, and has held full-time academic positions in Australia and Canada since 2008. Currently, he is a member of the Management Board of the Theatre Royal in Hobart, Tasmania.
+
 
 interests:
 - Actuarial studies
@@ -27,12 +28,14 @@ interests:
 
 education:
   courses:
-  - course: Actuary SAA
-    institution: Swiss Assocation of Actuaries
+  - course: FIAA
+    institution: Australian Actuaries Institute
   - course: CERA
     institution: CERA Global Association
   - course: GAICD
     institution: Australian Institute of Company Directors (AICD)
+  - course: Actuary SAA
+    institution: Swiss Assocation of Actuaries
   - course: PhD in Actuarial Science
     institution: University of Lausanne
     year: 2008
@@ -95,12 +98,8 @@ user_groups:
 - Visitors
 ---
 
-Benjamin Avanzi PhD Actuary SAA CERA GAICD is Professor of Actuarial Studies at the University of Melbourne.  He is also currently on the Management Board of the Theatre Royal (Hobart, Tasmania). He worked as an actuarial consultant in Switzerland and Canada, was Executive Chairman of the Board of a Swiss pension fund from 2006 to 2008, and held full-time academic positions in Australia and Canada since 2008.
+Benjamin Avanzi, PhD, Actuary SAA, GAICD, CERA, FIAA, serves as Professor of Actuarial Studies at the University of Melbourne. He has worked as an actuarial consultant in Switzerland and Canada, served as the Executive Chairman of the Board for a Swiss pension fund from 2006 to 2008, and has held full-time academic positions in Australia and Canada since 2008. Currently, he is a member of the Management Board of the Theatre Royal in Hobart, Tasmania.
 
+As a fully qualified Swiss actuary (Actuary SAA), Benjamin is also a Fellow of the Australian Actuaries Institute (FIAA), a Chartered Enterprise Risk Actuary (CERA), and a Graduate member of the Australian Institute of Company Directors (GAICD). Additionally, he is an Academic member of the Casualty Actuarial Society and a member of the ASTIN section of the International Actuarial Association (IAA).
 
-
-Benjamin is an "Actuary SAA" with the Swiss Association of Actuaries (fully qualified actuary, equivalent to Fellow in Switzerland), an Affiliate member of the Australian Actuaries Institute, an Academic member of the Casualty Actuarial Society, as well as a member of the ASTIN section of the IAA. He is also a Chartered Enterprise Risk Actuary (CERA) and a Graduate member of the Australian Institute of Company Directors (GAICD).
-
-
-
-Benjamin has published numerous papers in top actuarial and operations management journals. He was awarded (along with co-authors) the Hachemeister Prize twice by the Casualty Actuarial Society in 2017 and 2023, the Taylor Fry General Insurance Seminar Silver Prize in 2018, and a Highly Commended Paper Prize by the Institute and Faculty of Actuaries in 2022. He is an Editor of the ASTIN Bulletin, an Associate Editor of Insurance: Mathematics and Economics, as well as a member of the Editorial Board of the open access journal Risks.
+Throughout his career, Benjamin has published numerous papers in leading actuarial and operations journals. Along with various co-authors, he has been awarded the Hachemeister Prize twice by the Casualty Actuarial Society, in 2017 and 2023, and has received the Taylor Fry General Insurance Seminar Silver Prize in 2018, and a Highly Commended Paper Prize from the Institute and Faculty of Actuaries in 2022. He holds editorial roles as an Editor of the ASTIN Bulletin and as an Associate Editor of the journal Insurance: Mathematics and Economics.
