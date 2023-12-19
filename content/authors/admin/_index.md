@@ -38,10 +38,8 @@ education:
     institution: Swiss Assocation of Actuaries
   - course: PhD in Actuarial Science
     institution: University of Lausanne
-    year: 2008
   - course: MSc in Economics, major in Actuarial Science
     institution: University of Lausanne
-    year: 2005
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
